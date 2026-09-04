@@ -19,7 +19,7 @@ export default function Home() {
           <p>
             Lakukan perubahan pada&nbsp;
             <code className={styles.code}>src/pages/index.js</code>
-          </p>s
+          </p>
         </div>
 
         <div className={styles.center}>
